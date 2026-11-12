@@ -28,7 +28,7 @@ I like turning ideas into working products, learning from what breaks, and writi
 <div align="center">
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
@@ -93,7 +93,7 @@ Autonomous LangGraph agent that fetches live market data and produces structured
 
 ---
 
-## Certificates
+## Certifications
 
 - AWS Academy Graduate: **Cloud Architecting** (Jan 2026)
 - AWS Academy Graduate: **Cloud Foundations** (May 2025)
