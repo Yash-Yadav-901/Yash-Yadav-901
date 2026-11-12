@@ -2,7 +2,7 @@
 
 # Yash Yadav
 
-**Software Engineer in the making · Real-time systems · Backend · DevOps**
+**Full-Stack Developer · Backend · Cloud & DevOps**
 
 4th-year B.Tech CSE student at Lovely Professional University
 
@@ -17,9 +17,42 @@
 
 ## About
 
-I build systems where several moving parts have to stay in sync: real-time servers, caches, CI/CD pipelines and containers. Then I break them and work out why.
+I'm a final-year Computer Science student at Lovely Professional University with a strong interest in building reliable, scalable software. I enjoy working across the stack, from responsive frontends and REST APIs to databases, caching, containerization and cloud deployment.
 
-I'm now looking to go deeper into the layer where software meets the physical world: hardware integration, timing-sensitive code and system reliability. I'm seeking internships where I can learn that hands-on.
+I like turning ideas into working products, learning from what breaks, and writing code that is clean and maintainable. I'm always exploring new technologies and looking for opportunities to grow as an engineer and contribute to meaningful projects.
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
+
+**Core CS:** Operating Systems · Computer Networks · Data Structures & Algorithms · DBMS · OOP
 
 ---
 
@@ -60,40 +93,7 @@ Autonomous LangGraph agent that fetches live market data and produces structured
 
 ---
 
-## Tech Stack
-
-<div align="center">
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-</div>
-
-**Core CS:** Operating Systems · Computer Networks · Data Structures & Algorithms · DBMS · OOP
-
----
-
-## Certifications
+## Certificates
 
 - AWS Academy Graduate: **Cloud Architecting** (Jan 2026)
 - AWS Academy Graduate: **Cloud Foundations** (May 2025)
@@ -102,7 +102,7 @@ Autonomous LangGraph agent that fetches live market data and produces structured
 
 <div align="center">
 
-Open to internships · Always happy to talk about real-time systems, debugging and DevOps
+Open to internships and collaboration · Always happy to connect
 
 [Connect on LinkedIn](https://www.linkedin.com/in/yashyadav90/) · [Email me](mailto:yashyadav65378@gmail.com)
 
